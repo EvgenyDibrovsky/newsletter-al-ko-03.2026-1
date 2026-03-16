@@ -22,10 +22,8 @@
               to inwestycja na lata bezproblemowego i przyjemnego koszenia!
             </mj-text>
             <mj-text padding-top="0" padding-bottom="38px" color="#000000" font-size="34px" line-height="38px"
-              font-weight="800" align="center" font-style="italic" text-transform="uppercase"
-              font-family="Open Sans, sans-serif">
-              Duży ogród? <br>
-              Duży traktor ogrodowy!
+              font-weight="800" align="center" font-style="italic" font-family="Open Sans, sans-serif">
+DUŻY OGRÓD? <br> DUŻY TRAKTOR OGRODOWY!
             </mj-text>
             <mj-image src="./images/maxairflow-technology.png" alt="MaxAirFlow Technology" href="https://traktory.alko-garden.pl/" width="276px" fluid-on-mobile="false" align="center"
               padding="0" />
